@@ -22,7 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bluesabredavis
 github_username:  bluesabre
 
-include: ['_pages']
+include: ['_redirects']
 
 # Build settings
 markdown: kramdown
