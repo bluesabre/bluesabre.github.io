@@ -15,7 +15,8 @@ redirect_from:
 
 [Homepage](https://bluesabre.org/catfish) &emsp;
 [Git](https://gitlab.xfce.org/apps/catfish) &emsp;
-[Documentation](https://docs.xfce.org/apps/catfish/start)
+[Documentation](https://docs.xfce.org/apps/catfish/start) &emsp;
+[Translations](https://www.transifex.com/xfce/xfce-apps/)
 
 ## Exo
 
@@ -23,7 +24,8 @@ redirect_from:
 
 ~~Homepage~~ &emsp;
 [Git](https://gitlab.xfce.org/apps/catfish) &emsp;
-[Documentation](https://docs.xfce.org/xfce/exo/start)
+[Documentation](https://docs.xfce.org/xfce/exo/start) &emsp;
+[Translations](https://www.transifex.com/xfce/exo/)
 
 ## LightDM GTK+ Greeter
 
@@ -31,7 +33,8 @@ redirect_from:
 
 [Homepage](https://bluesabre.org/lightdm-gtk-greeter/) &emsp;
 [Git](https://github.com/Xubuntu/lightdm-gtk-greeter) &emsp;
-[Documentation](https://github.com/Xubuntu/lightdm-gtk-greeter/wiki)
+[Documentation](https://github.com/Xubuntu/lightdm-gtk-greeter/wiki) &emsp;
+[Translations](https://www.transifex.com/xubuntu/lightdm-gtk-greeter/)
 
 ![LightDM GTK+ Greeter Settings](/assets/img/org.xubuntu.lightdm-gtk-greeter-settings.png){: .right-img}
 
@@ -41,7 +44,8 @@ redirect_from:
 
 ~~Homepage~~ &emsp;
 [Git](https://github.com/Xubuntu/lightdm-gtk-greeter-settings) &emsp;
-[Documentation](https://github.com/Xubuntu/lightdm-gtk-greeter-settings/wiki)
+[Documentation](https://github.com/Xubuntu/lightdm-gtk-greeter-settings/wiki) &emsp;
+[Translations](https://www.transifex.com/xubuntu/lightdm-gtk-greeter-settings/)
 
 ![MenuLibre](/assets/img/org.bluesabre.menulibre.png){: .right-img}
 
@@ -51,7 +55,8 @@ redirect_from:
 
 [Homepage](https://bluesabre.org/menulibre/) &emsp;
 [Git](https://github.com/bluesabre/menulibre) &emsp;
-[Documentation](https://github.com/bluesabre/menulibre/wiki)
+[Documentation](https://github.com/bluesabre/menulibre/wiki) &emsp;
+[Translations](https://www.transifex.com/bluesabreorg/menulibre/)
 
 ![Mugshot](/assets/img/org.bluesabre.mugshot.png){: .right-img}
 
@@ -61,7 +66,8 @@ redirect_from:
 
 [Homepage](https://bluesabre.org/mugshot/) &emsp;
 [Git](https://github.com/bluesabre/mugshot) &emsp;
-[Documentation](https://github.com/bluesabre/mugshot/wiki)
+[Documentation](https://github.com/bluesabre/mugshot/wiki) &emsp;
+[Translations](https://www.transifex.com/bluesabreorg/mugshot/)
 
 ![Mugshot](/assets/img/org.xfce.parole.png){: .right-img}
 
@@ -71,7 +77,8 @@ redirect_from:
 
 ~~Homepage~~ &emsp;
 [Git](https://gitlab.xfce.org/apps/parole) &emsp;
-[Documentation](https://docs.xfce.org/apps/parole/start)
+[Documentation](https://docs.xfce.org/apps/parole/start) &emsp;
+[Translations](https://www.transifex.com/xfce/xfce-apps/)
 
 ![Mugshot](/assets/img/org.bluesabre.sgt-launcher.png){: .right-img}
 
@@ -81,7 +88,8 @@ redirect_from:
 
 ~~Homepage~~ &emsp;
 [Git](https://github.com/bluesabre/sgt-launcher) &emsp;
-[Documentation](https://github.com/bluesabre/sgt-launcher/wiki)
+[Documentation](https://github.com/bluesabre/sgt-launcher/wiki) &emsp;
+[Translations](https://www.transifex.com/bluesabreorg/sgt-puzzles-collection/)
 
 ## Xfce Screensaver
 
@@ -90,7 +98,8 @@ simple, sane, secure defaults and be well integrated with the desktop.
 
 ~~Homepage~~ &emsp;
 [Git](https://gitlab.xfce.org/apps/xfce4-screensaver) &emsp;
-[Documentation](https://docs.xfce.org/apps/screensaver/start)
+[Documentation](https://docs.xfce.org/apps/screensaver/start) &emsp;
+[Translations](https://www.transifex.com/xfce/xfce-apps/)
 
 ![Xfce Settings](/assets/img/org.xfce.settings.png){: .right-img}
 
@@ -100,4 +109,5 @@ simple, sane, secure defaults and be well integrated with the desktop.
 
 ~~Homepage~~ &emsp;
 [Git](https://gitlab.xfce.org/xfce/xfce4-settings) &emsp;
-[Documentation](https://docs.xfce.org/xfce/xfce4-settings/start)
+[Documentation](https://docs.xfce.org/xfce/xfce4-settings/start) &emsp;
+[Translations](https://www.transifex.com/xfce/xfce4-settings/)
