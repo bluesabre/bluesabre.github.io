@@ -3,7 +3,7 @@ layout: default
 title: Sean Davis
 ---
 
-# My Projects
+# Related Projects
 
 ![Catfish](/assets/img/org.xfce.catfish.png){: .right-img}
 
