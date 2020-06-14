@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Sean Davis
+redirect_from:
+  - /start
 ---
 
 # Related Projects
