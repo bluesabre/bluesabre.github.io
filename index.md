@@ -5,6 +5,8 @@ redirect_from:
   - /start
 ---
 
+This site is a directory for Xubuntu, Xfce, and Linux resources. If you're looking for Sean Davis (bluesabre), check out [seand.xyz](https://seand.xyz).
+
 # Related Projects
 
 ![Catfish](/assets/img/org.xfce.catfish.png){: .right-img}
