@@ -13,7 +13,7 @@ redirect_from:
 
 **Catfish** is a versatile file searching utility. Powered by Python and Gtk, it is beautiful, fast, and reliable.
 
-[Homepage](https://bluesabre.org/catfish) &emsp;
+[Homepage](https://seand.xyz/projects/catfish/) &emsp;
 [Git](https://gitlab.xfce.org/apps/catfish) &emsp;
 [Documentation](https://docs.xfce.org/apps/catfish/start) &emsp;
 [Translations](https://www.transifex.com/xfce/xfce-apps/)
@@ -31,7 +31,7 @@ redirect_from:
 
 **LightDM GTK+ Greeter** is a greeter (login screen) with moderate system requirements.
 
-[Homepage](https://bluesabre.org/lightdm-gtk-greeter/) &emsp;
+[Homepage](https://seand.xyz/projects/lightdm-gtk-greeter/) &emsp;
 [Git](https://github.com/Xubuntu/lightdm-gtk-greeter) &emsp;
 [Documentation](https://github.com/Xubuntu/lightdm-gtk-greeter/wiki) &emsp;
 [Translations](https://www.transifex.com/xubuntu/lightdm-gtk-greeter/)
@@ -53,7 +53,7 @@ redirect_from:
 
 **MenuLibre** is an advanced FreeDesktop.org compliant menu editor.
 
-[Homepage](https://bluesabre.org/menulibre/) &emsp;
+[Homepage](https://seand.xyz/projects/menulibre/) &emsp;
 [Git](https://github.com/bluesabre/menulibre) &emsp;
 [Documentation](https://github.com/bluesabre/menulibre/wiki) &emsp;
 [Translations](https://www.transifex.com/bluesabreorg/menulibre/)
@@ -64,7 +64,7 @@ redirect_from:
 
 **Mugshot** is a lightweight user configuration utility for Linux designed for simplicity and ease of use.
 
-[Homepage](https://bluesabre.org/mugshot/) &emsp;
+[Homepage](https://seand.xyz/projects/mugshot/) &emsp;
 [Git](https://github.com/bluesabre/mugshot) &emsp;
 [Documentation](https://github.com/bluesabre/mugshot/wiki) &emsp;
 [Translations](https://www.transifex.com/bluesabreorg/mugshot/)
@@ -86,7 +86,7 @@ redirect_from:
 
 **SGT Puzzles Collection** provides a single launcher for all the games in [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 
-~~Homepage~~ &emsp;
+[Homepage](https://seand.xyz/projects/sgt-launcher/) &emsp;
 [Git](https://github.com/bluesabre/sgt-launcher) &emsp;
 [Documentation](https://github.com/bluesabre/sgt-launcher/wiki) &emsp;
 [Translations](https://www.transifex.com/bluesabreorg/sgt-puzzles-collection/)
